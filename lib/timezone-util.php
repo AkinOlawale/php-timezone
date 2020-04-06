@@ -3,9 +3,9 @@
 require('config.php');
 
 /**
- * Description of timezone-util
+ * The timezone util class
  *
- * @author User
+ * @author Akin-Olawale
  */
 class timezone_util {
 
